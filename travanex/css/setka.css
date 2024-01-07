@@ -1,0 +1,30 @@
+.container,
+.container-full {
+  /* width: 80%; */
+  margin: 0 auto;
+  padding: 0px 10px;
+  box-sizing: border-box;
+}
+.container {
+  width: 69%;
+}
+.container-full {
+  width: 85%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.justify__content__between {
+  justify-content: space-between;
+}
+.align__items__center {
+  align-items: center;
+}
+.col-auto {
+  padding: 0px 10px;
+  box-sizing: border-box;
+}
+.Merriweather__700 {
+  font-family: Merriweather serif;
+}
